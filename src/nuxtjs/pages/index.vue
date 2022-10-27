@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <h1 class="home__title">
-      Welcome to <br /><a
+      Welcome to vuevuevue<br /><a
         class="home__title__link"
         href="https://developers.line.biz/en/docs/liff/overview/"
         >LIFF Starter!</a
